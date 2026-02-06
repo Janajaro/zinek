@@ -1,0 +1,38 @@
+export const guestList = [
+    {
+        id: "1",
+        name: "Risko Print",
+        description: "neofiko text - Risko print is a riso studio based in Slovakia, they focus on young and diy creators. They have collection of zines and prints and even some merch!",
+        ig: "",
+        fb: "https://www.instagram.com/risko.print/?hl=en",
+        web: "https://riskoprint.bigcartel.com/",
+        img: "public/img/rp.png",
+    },
+    {
+        id: "2",
+        name: "Paper Can Dance",
+        description: "neofiko text - Paper Can Dance jsou holčičím riso studiem v Praze. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou. Paper Can Dance jsou holčičím riso studiem v Praze. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou. Paper Can Dance jsou holčičím riso studiem v Praze. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou. Paper Can Dance jsou holčičím riso studiem v Praze. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou. Paper Can Dance jsou holčičím riso studiem v Praze. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou...",
+        ig: "https://www.instagram.com/paper.can.dance/?hl=en",
+        fb: "",
+        web: "https://papercandance.com/",
+        img: "public/img/pcd.jpg",
+    },
+        {
+        id: "3",
+        name: "Zisko Print 2",
+        description: "neofiko text - Risko print is a riso studio based in Slovakia, they focus on young and diy creators. They have collection of zines and prints and even some merch! Risko print is a riso studio based in Slovakia, they focus on young and diy creators. They have collection of zines and prints and even some merch! Risko print is a riso studio based in Slovakia, they focus on young and diy creators. They have collection of zines and prints and even some merch!",
+        ig: "https://www.instagram.com/risko.print/?hl=en",
+        fb: "https://www.instagram.com/risko.print/?hl=en",
+        web: "https://riskoprint.bigcartel.com/",
+        img: "public/img/rp.png",
+    },
+    {
+        id: "4",
+        name: "Baper Can Dance 2",
+        description: "neofiko text - Paper Can Dance jsou holčičím riso studiem v Praze. Dvě holky a jeden stroj. Vydávají mladé fresh ziny s ilustrací, fotkou a grafikou...",
+        ig: "",
+        fb: "",
+        web: "",
+        img: "public/img/pcd.jpg",
+    },
+]

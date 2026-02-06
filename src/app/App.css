@@ -1,0 +1,37 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 15vw;
+  align-items: flex-start ;
+  font-size: 5vw;
+  padding-bottom: 2vh;
+}
+
+.nav-link:active,
+.nav-link:visited,
+.nav-link:link {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: rgb(13, 13, 207);
+}
+
+.container-header {
+  background-color: rgb(239, 101, 21);
+  padding: 1vh 1vh;
+  align-items: center;
+  text-align: center;
+}
+
+.container-header a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container-header a:hover {
+  text-decoration: underline;
+}
