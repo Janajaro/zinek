@@ -16,22 +16,21 @@
 }
 
 .nav-link:hover {
-  color: rgb(13, 13, 207);
+  color: var(--orange);
 }
 
-.container-header {
-  background-color: rgb(239, 101, 21);
+.container-footer {
+  background-color: var(--purple);
   padding: 1vh 1vh;
   align-items: center;
   text-align: center;
 }
 
-.container-header a {
+.footer-links:active,
+.footer-links:visited,
+.footer-links:link
+ {
   color: black;
   text-decoration: none;
   font-weight: bold;
-}
-
-.container-header a:hover {
-  text-decoration: underline;
 }

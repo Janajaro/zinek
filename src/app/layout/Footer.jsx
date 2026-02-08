@@ -1,9 +1,10 @@
-import "../App.css"
+import "../App.css";
+
 
 export const Footer = () => {
     return (
-        <div className="container-header">
-            Get in touch with us! <a href="">Email</a>, <a href="">Instagram</a> and <a href="">Facebook</a>
+        <div className="container-footer">
+            Get in touch with us! <a className="footer-links" href="">Email</a>, <a className="footer-links" href="">Instagram</a> and <a className="footer-links" href="">Facebook</a>
         </div>
     )
 }

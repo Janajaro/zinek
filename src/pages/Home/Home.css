@@ -1,0 +1,39 @@
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    background-color: black;
+    width: 100%;
+    height: 60vw;
+
+}
+
+.parallax-container img {
+    position: absolute;
+    inset: 0;              
+    width: 100%;
+    height: 100%;
+
+    object-fit: contain;   
+    object-position: center;
+    will-change: transform;
+    transform: translate3d(0, 0, 0);
+    pointer-events: none;
+}
+
+.ZN-anna_hai-moon { z-index: 1; }
+.ZN-anna_hai-mountain-bckgd { z-index: 2; }
+.ZN-anna_hai-mountain-front { z-index: 3; }
+.ZN-anna_hai-sidewalk { z-index: 4; }
+.ZN-anna_hai-truck { z-index: 6; }
+
+.lower-container {
+    background-color: black;
+    color: var(--orange);
+    position: relative;
+    font-size: x-large;
+    padding: 10vw 24vw;
+    font-size: 2em;
+}
+
+
+
