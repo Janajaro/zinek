@@ -1,5 +1,5 @@
 import "./List.css";
-import { guestList } from "../../data/guestList";
+import guestList from "../../data/guests.json";
 import { GuestCard } from "../../components/GuestCard/GuestCard";
 
 export const List = () => {

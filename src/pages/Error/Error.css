@@ -1,0 +1,22 @@
+.main-error {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-error h1 {
+    color: var(--orange);
+}
+
+.main-error img {
+    min-width: 35vw;
+    height: 80vh;
+}
+
+@media (max-width: 1000px) {
+    .main-error img {
+        width: 100vw;
+        height: auto;
+    }
+}

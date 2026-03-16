@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/img"
+public_folder: "/img"
+
+collections:
+  - name: "guests"
+    label: "Guests"
+    file: "src/data/guests.json"
+    format: "json"
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Instagram", name: "ig", widget: "string", required: false }
+      - { label: "Facebook", name: "fb", widget: "string", required: false }
+      - { label: "Website", name: "web", widget: "string", required: false }
+      - { label: "Image", name: "img", widget: "image" , required: false }
