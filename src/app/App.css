@@ -3,9 +3,8 @@
   flex-direction: row;
   justify-content: center;
   gap: 15vw;
-  align-items: flex-start ;
   font-size: 5vw;
-  padding-bottom: 2vh;
+  padding-bottom: 1vh;
 }
 
 .nav-link:active,

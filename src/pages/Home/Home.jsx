@@ -64,21 +64,27 @@ export const Home = () => {
       </div>
 
       <div className="lower-container">
-        <h1>
-          ZINE LOVERS CLUB PRAGUE
-        </h1>
+
+        <h2 className="h2-home">
+          ◖Zinek is an independent festival of self-publishing and analog print◗ 
+        </h2>
+
         <br />
-        <p>
-          Zinek is an independent festival of self-publishing and analog print. 
-          Do you draw, take photos, create zines? Do you have a passion for letterpress, riso, silkscreen, linocut… in short, do you enjoy prints that are not all the same, and do you want to meet people from workshops where your print smells and hands get dirty? 
+
+        <p className="p-home">
+          ◖Do you draw, take photos, create zines? Do you have a passion for letterpress, riso, silkscreen, linocut… in short, do you enjoy prints that are not all the same, and do you want to meet people from workshops where your print smells and hands get dirty?◗ 
         </p>
+
         <br />
-        <p>
-          In the spring of 2026, a new festival dedicated to artzines, artistic graphics and illustration will start in Prague. Once every two years, alternating with Spring Zine Party.
-        </p>
+
+        <h2 className="h2-home">
+          ◖In the spring of 2026, a new festival dedicated to artzines, artistic graphics and illustration will start in Prague◗  
+        </h2>
+
         <br />
-        <p>
-          More info coming soon! Stay tuned!
+
+        <p className="p-home"> 
+          ◖More info coming soon! Stay tuned!◗ 
         </p>
       </div>
     </div>

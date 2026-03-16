@@ -1,16 +1,55 @@
-.info-wrapper {
-    margin: 0vw 11vw 5vh 11vw;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    padding: 1vw;
-    border: solid;
-    border-color: rgb(0, 0, 0);
-    border-width: 1.8px;
+.main {
+  min-height: 100vh;
 }
 
-h1 {
-    padding: 2vw;
-    text-decoration: underline;
+.item {
+  transition: background-color 0.1s ease;
 }
 
+.item-open {
+  background-color: var(--yellow);
+}
+
+a:link, a:active, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: var(--orange);
+}
+
+.h2-info {
+  padding: 0.8vw 0;
+  margin-left: 20vw;
+  font-size: 3em;
+  font-weight: lighter;
+}
+
+.h2-info:hover {
+  color: var(--orange);
+  cursor: pointer;
+}
+
+.p-info {
+  padding: 0 15vw 3vh 15vw;
+  font-size: 0.9em;
+}
+
+hr {
+  border-style: none;
+  height: 0.1em;
+  background-color: black;
+}
+
+@media (max-width: 1100px) {
+
+  .h2-info {
+    font-size: 2em;
+  } 
+
+  .p-info {
+    font-size: 0.7em;
+  }
+
+}

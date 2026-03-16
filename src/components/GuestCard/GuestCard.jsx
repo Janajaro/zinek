@@ -5,7 +5,7 @@ export const GuestCard = ({guest}) => {
         
         <div className="individual-guest-card">
            
-            <h1 className="individual-guest-card_name">{guest.name}</h1>
+            <h2 className="individual-guest-card_name">{guest.name}</h2>
             <div className="individual-guest-card_description">{guest.description}</div>
             <img className="individual-guest-card_img" src={guest.img} alt={guest.name} />
 

@@ -3,6 +3,7 @@ import { Header } from "./Header";
 import { Footer } from "./Footer";
 
 import "../../styles/global.css"
+import "../App.css"
 
 export const RootLayout = () => {
     return (
