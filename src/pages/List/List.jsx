@@ -10,15 +10,21 @@ export const List = () => {
 
     return (
 
-        <section className="guests-grid">
+        <>
+            <section className="guests-grid">
            
-            { sortedGuests.map((item) => (
+                { sortedGuests.map((item) => (
 
-                < GuestCard key={item.id} guest={item}/>
+                    < GuestCard key={item.id} guest={item}/>
 
-            ))}
+                ))}
 
-        </section>
+            </section>
+
+            <h1 className="guests-heading">... and more coming up!</h1>
+        
+        </>
+
 
     )
 }
