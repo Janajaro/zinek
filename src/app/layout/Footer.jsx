@@ -2,7 +2,8 @@
 export const Footer = () => {
     return (
         <div className="container-footer">
-            Get in touch with us! <a className="footer-links" href="">Email</a>, <a className="footer-links" href="">Instagram</a> and <a className="footer-links" href="">Facebook</a>
+
+            Get in touch with us via <a className="footer-links" href="mailto:Zinek.fest@gmail.com" >Email</a> or <a className="footer-links" href="https://www.instagram.com/zinek_fest/" target="_blank">Instagram</a>.
         </div>
     )
 }

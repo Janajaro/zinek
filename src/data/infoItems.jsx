@@ -2,7 +2,7 @@ export const infoItems = [
 {
     id: 1,
     name: "General",
-    text: "Zinek, the new fresh festival of analog print will take place in Prague's beautiful new venue U bažanta hosted by Cistirna 1906 on Sunday 24. 5. 2026 from 11:00 till 19:00. There will be food and drinks availible for purchase at the Cistirna 1906 café. Cash is prefered."
+    text: "Zinek, the new fresh festival of analog print will take place in Prague's beautiful new venue U bažanta hosted by Cistirna 1906 on Sunday 24. 5. 2026, from 11:00 till 19:00. There will be food and drinks availible for purchase at the Cistirna 1906 café. Cash is prefered."
 },
 {
     id: 2,
@@ -25,8 +25,8 @@ export const infoItems = [
     name: "Schedule",
     text:   <>
                 <div>Sunday 24. 5. 2026</div>
-                <div>11:00 Doors open</div>
-                <div>19:00 End</div>
+                <div>Doors open 11:00</div>
+                <div>End 19:00</div>
             </>,
 },
 {
@@ -38,7 +38,7 @@ export const infoItems = [
     id: 6,
     name: "Contact",
     text:   <>
-                <div> <a href="https://www.instagram.com/zinek_fest/" target="blank" >Instagram</a></div>
+                <div> You can reach out to us on <b><a href="https://www.instagram.com/zinek_fest/" target="_blank" >Instagram</a></b> or write us an email to <b>Zinek.fest@gmail.com</b></div>
             </>,
 },
 {
@@ -46,11 +46,11 @@ export const infoItems = [
     name: "Zinek crew",
     text: <>
                 <div>Organizing team:</div>
-                <div>Anna, Barbora, Veronika & Josef</div>
+                <div> <a href="https://www.instagram.com/avokcilukanna/" target="_blank">Anna Kulíčková</a>, <a href="https://www.instagram.com/bara_mu/" target="_blank">Barbora Müllerová</a>, <a href="https://www.instagram.com/quaileye/" target="_blank">Eli Sochneva</a>, <a href="https://www.instagram.com/vero_nika_homolova/" target="_blank">Veronika Homolová</a> & <a href="https://www.instagram.com/dark_press/" target="_blank">Josef Liska</a></div>
                 <div>Illustrations:</div>
-                <div>Anna Haifish, David Dolenký</div>
+                <div> <a href="https://www.instagram.com/anna.haifisch/" target="_blank">Anna Haifish</a>, <a href="https://www.instagram.com/dolenskid/" target="_blank">David Dolenský</a></div>
                 <div>Web:</div>
-                <div>Jana Jarošová</div>
+                <div><a href="https://www.instagram.com/janajaro_/" target="_blank">Jana Jarošová</a></div>
             </>,
 },
 ]
