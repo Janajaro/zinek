@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <script>
+      if (
+        window.location.hash &&
+        (
+          window.location.hash.includes("invite_token") ||
+          window.location.hash.includes("confirmation_token") ||
+          window.location.hash.includes("recovery_token") ||
+          window.location.hash.includes("access_token")
+        )
+      ) {
+        window.location.replace("/admin/" + window.location.hash);
+      }
+    </script>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/png" href="/img/zinek-favi.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
