@@ -2,12 +2,12 @@
   "guests": [
     {
       "id": "1",
-      "name": "Risko Print",
-      "description": "neofiko text - Risko print is a riso studio based in Slovakia, they focus on young and diy creators.",
-      "ig": "",
-      "fb": "https://www.instagram.com/risko.print/?hl=en",
-      "web": "https://riskoprint.bigcartel.com/",
-      "img": "/img/rp.png"
+      "name": "Hilda kolektiv",
+      "description": "Hilda (*2022) is a collective of artists formed out of friendship, whose practice is based on the principles of collaborative work and polyphonic creation. Their collaborative work is defined by an emphasis on process, mutual influence, and respect for the diverse perspectives and experiences of each member. The collective does not strive for a unified aesthetic, but rather for a layered interconnection of approaches that take shape through dialogue and collaborative situations. A fundamental role in their work is played by the effort to articulate contemporary experience through materials, forms, and images that carry memory and affective charge. Inspiration from the figure of Hildegard of Bingen frames their interest in synthetic modes of cognition that interconnect spiritual, visual, and environmental dimensions. The collective actively participates in exhibition and creative projects and undertakes joint artist residencies. Its members explore and experiment with what it means to be and create together – what forms collaborative work, shared responsibility, and the constant reevaluation of the collective’s very functioning can take. ",
+      "ig": "https://www.instagram.com/hilda_kolektiv/",
+      "fb": "https://www.facebook.com/hildakolektiv",
+      "web": "https://hildakolektiv.com/",
+      "img": "/img/zinek_2026_hilda-kolektiv.jpg"
     },
     {
       "id": "2",
