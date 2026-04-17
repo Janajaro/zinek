@@ -40,6 +40,13 @@
       "ig": "https://www.instagram.com/projekt_moribundus",
       "description": "We are a riso studio and micro-publishing house based in Wallachia. We primarily print photography zines, activist non-periodicals, and prints of all kinds. We strive to support unknown and underappreciated artists and to demonstrate that riso printing and photography go hand in hand. We avoid pristine finishes and branded papers.",
       "img": "/img/zinek_2026_projekt-moribundus.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Risko print",
+      "description": "Risko Group/Collective:\nWe’ve been printing art, humor, and politics on an old RP3700 press for 6 years now. We’re part of the KUBIK community center in Trnava. We take on commissions and create for fun – graphics, posters, zines, stickers, notebooks, and whatever else comes to mind. Sometimes we draw something, sometimes we print something.",
+      "ig": "https://www.instagram.com/risko.print/",
+      "img": "/img/zinek_2026_risko-print.jpg"
     }
   ]
 }
