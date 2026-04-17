@@ -6,22 +6,29 @@
     gap: 0.5rem;
     border: 1.8px solid black;
 }
+.individual-guest-card-subsection {
+    display: flex;
+    flex-direction: column;
+    height: 15rem;
+}
 
 .individual-guest-card_name {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
+    background-color: var(--yellow);
+    padding: 0 0.1rem;
+}
+
+.individual-guest-card_description {
+    flex: 1;
+    overflow-y: auto;
+    font-size: clamp(0.9rem, 0.9vw, 1.3rem);
+    min-height: 30%;
 }
 
 .individual-guest-card_img {
     width: 100%;
     height: 70%;
     object-fit: cover;
-}
-
-.individual-guest-card_description {
-    flex: 1;
-    overflow-y: auto;
-    font-size: clamp(0.8rem, 0.85vw, 1.2rem);
-    min-height: 30%;
 }
 
 .individual-guest-card_contact {

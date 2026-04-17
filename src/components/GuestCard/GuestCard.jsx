@@ -4,9 +4,15 @@ export const GuestCard = ({guest}) => {
     return (
         
         <div className="individual-guest-card">
+
+            <div className="individual-guest-card-subsection">
+
+                <h2 className="individual-guest-card_name">{guest.name}</h2>
+                <div className="individual-guest-card_description">{guest.description}</div>
+
+            </div>
            
-            <h2 className="individual-guest-card_name">{guest.name}</h2>
-            <div className="individual-guest-card_description">{guest.description}</div>
+            
             <img className="individual-guest-card_img" src={guest.img} alt={guest.name} />
 
             <div className="individual-guest-card_contact">
