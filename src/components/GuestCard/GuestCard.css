@@ -8,7 +8,7 @@
 }
 
 .individual-guest-card_name {
-    font-size: clamp(1.4rem, 2.2vw, 2.4rem);
+    font-size: 1.4rem;
 }
 
 .individual-guest-card_img {
@@ -20,19 +20,14 @@
 .individual-guest-card_description {
     flex: 1;
     overflow-y: auto;
-    font-size: clamp(0.8rem, 0.9vw, 1.2rem);
-    min-height: 20%;
-}
-
-.guests-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 2vw;
+    font-size: clamp(0.8rem, 0.85vw, 1.2rem);
+    min-height: 30%;
 }
 
 .individual-guest-card_contact {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    font-size: clamp(0.8rem, 0.85vw, 1.2rem);
 }
 
