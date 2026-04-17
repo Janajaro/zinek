@@ -33,6 +33,13 @@
       "ig": "https://www.instagram.com/xao_bookshop_gallery/?hl=en",
       "description": "Zaozaz, Čaočač, Maomam, Kaokak, Laolal, Daodad, Uaouau, and more we could have been, but in the end we are Xaoxax. We are a group of illustrators who run a tiny gallery, non-commercial mini-bookstore and also mikro-publishing house. We respect pigeons, mushrooms and flies.",
       "img": "/img/zinek_2026_xao.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "projekt Moribundus",
+      "ig": "https://www.instagram.com/projekt_moribundus",
+      "description": "We are a riso studio and micro-publishing house based in Wallachia. We primarily print photography zines, activist non-periodicals, and prints of all kinds. We strive to support unknown and underappreciated artists and to demonstrate that riso printing and photography go hand in hand. We avoid pristine finishes and branded papers.",
+      "img": "/img/zinek_2026_projekt-moribundus.jpg"
     }
   ]
 }
