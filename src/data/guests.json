@@ -1,6 +1,13 @@
 {
   "guests": [
     {
+      "id": "8",
+      "name": "Hurrikan Press",
+      "description": "Hurrikan Press is a small press and publishing house, founded in 2014, located in the 8th district of Budapest, Hungary. We are mostly working with risograph machines, currently old RPs and GRs, with 14 colors.\n\nThe press is run by Árpád Szigeti and Zsófia Rumi, both illustrators and printmakers. Our main goal is to print our own work and to publish zines by local and international folks that focus on street art, alt comics and drawing.",
+      "ig": "https://www.instagram.com/hurrikanpress",
+      "img": "/img/zinek_2026_hurrikan.jpg"
+    },
+    {
       "id": "1",
       "name": "Hilda kolektiv",
       "description": "Hilda (*2022) is a collective of artists formed out of friendship, whose practice is based on the principles of collaborative work and polyphonic creation. Their collaborative work is defined by an emphasis on process, mutual influence, and respect for the diverse perspectives and experiences of each member. The collective does not strive for a unified aesthetic, but rather for a layered interconnection of approaches that take shape through dialogue and collaborative situations. A fundamental role in their work is played by the effort to articulate contemporary experience through materials, forms, and images that carry memory and affective charge. Inspiration from the figure of Hildegard of Bingen frames their interest in synthetic modes of cognition that interconnect spiritual, visual, and environmental dimensions. The collective actively participates in exhibition and creative projects and undertakes joint artist residencies. Its members explore and experiment with what it means to be and create together – what forms collaborative work, shared responsibility, and the constant reevaluation of the collective’s very functioning can take. ",
@@ -55,13 +62,6 @@
       "ig": "https://www.instagram.com/kudla_werkstatt/",
       "web": "https://www.instagram.com/kudla_press/",
       "img": "/img/zinek_2026_kudla.jpg"
-    },
-    {
-      "id": "8",
-      "name": "Hurrikan Press",
-      "description": "Hurrikan Press is a small press and publishing house, founded in 2014, located in the 8th district of Budapest, Hungary. We are mostly working with risograph machines, currently old RPs and GRs, with 14 colors.\n\nThe press is run by Árpád Szigeti and Zsófia Rumi, both illustrators and printmakers. Our main goal is to print our own work and to publish zines by local and international folks that focus on street art, alt comics and drawing.",
-      "ig": "https://www.instagram.com/hurrikanpress",
-      "img": "/img/zinek_2026_hurrikan.jpg"
     },
     {
       "id": "9",
