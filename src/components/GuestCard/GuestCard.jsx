@@ -11,7 +11,6 @@ export const GuestCard = ({guest}) => {
                 <div className="individual-guest-card_description">{guest.description}</div>
 
             </div>
-           
             
             <img className="individual-guest-card_img" src={guest.img} alt={guest.name} />
 
