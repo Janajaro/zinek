@@ -72,6 +72,14 @@
       "img": "/img/zinek_2026_barbora-idesova.jpg"
     },
     {
+      "name": "Paper Can Dance",
+      "description": "PaperCanDance is an independent risograph and graphic design studio. We focus on printing, design, and organizing workshops. Our main goal is to create a platform that serves as a collaborative space for developing ideas and new projects. We strive to build a place where the general public can become familiar with the artistic printing technique of risography and the culture surrounding it.",
+      "ig": "https://www.instagram.com/paper.can.dance/",
+      "web": "https://papercandance.com/",
+      "id": "15",
+      "img": "/img/zinek_2026_paper-can-dance.jpg"
+    },
+    {
       "id": "9",
       "name": "FŮD",
       "description": "Fůd magazine was founded in 2015 by three illustrators (Veronika Homolová, Bára Müllerová, and Barbora Tögel) as an independent magazine, which later evolved into a platform for socially engaged illustration called FŮD. We’ve already published 8 issues and organized several exhibitions, both in the Czech Republic and abroad. Over the years, we’ve featured works by illustration and comic superstars such as Tara Booth, Daisuke Ichiba, Ida Neverdahl, and many others. We always bring together artists with diverse styles, both well-known and lesser-known, from the Czech Republic and abroad. This year we’re celebrating our 10th anniversary and bringing you juicy magazines, zines, and posters.",
@@ -107,14 +115,6 @@
       "ig": "https://www.instagram.com/bara_mu/",
       "web": "https://barboramu.com/",
       "img": "/img/zinek_2026_bara-mullerova.jpg"
-    },
-    {
-      "name": "Paper Can Dance",
-      "description": "PaperCanDance is an independent risograph and graphic design studio. We focus on printing, design, and organizing workshops. Our main goal is to create a platform that serves as a collaborative space for developing ideas and new projects. We strive to build a place where the general public can become familiar with the artistic printing technique of risography and the culture surrounding it.",
-      "ig": "https://www.instagram.com/paper.can.dance/",
-      "web": "https://papercandance.com/",
-      "id": "15",
-      "img": "/img/zinek_2026_paper-can-dance.jpg"
     }
   ]
 }
