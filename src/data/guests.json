@@ -107,6 +107,14 @@
       "ig": "https://www.instagram.com/bara_mu/",
       "web": "https://barboramu.com/",
       "img": "/img/zinek_2026_bara-mullerova.jpg"
+    },
+    {
+      "name": "Paper Can Dance",
+      "description": "PaperCanDance is an independent risograph and graphic design studio. We focus on printing, design, and organizing workshops. Our main goal is to create a platform that serves as a collaborative space for developing ideas and new projects. We strive to build a place where the general public can become familiar with the artistic printing technique of risography and the culture surrounding it.",
+      "ig": "https://www.instagram.com/paper.can.dance/",
+      "web": "https://papercandance.com/",
+      "id": "15",
+      "img": "/img/zinek_2026_paper-can-dance.jpg"
     }
   ]
 }
